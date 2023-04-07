@@ -3,10 +3,10 @@
   -- Convert Hex file into Binary --
 
 how to use :
-> place the hex file with txt format in import folder.
-> name the ouput, eg: image.jpg / doc.pdf / video.mp4
+> place the hex file with txt format in import folder. \n
+> name the ouput, eg: image.jpg / doc.pdf / video.mp4 \n
 
-it works on :
+it works on : \n
 > IMAGES (png, jpg, jpe, etc)
 > VIDEOS (mp4, etc)
 > DOCUMENTS (pdf, etc)
