@@ -1,6 +1,6 @@
 
-        *** HEX2BIN ***
-*** -- Convert Hex file into Binary -- ***
+           *** HEX2BIN ***
+  -- Convert Hex file into Binary --
 
 how to use :
 > place the hex file with txt format in import folder.
