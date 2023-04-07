@@ -1,6 +1,9 @@
 
            *** HEX2BIN ***
-  -- Convert Hex file into Binary --
+
+> Convert Hex file into Binary
+
+
 
 how to use :
 > place the hex file with txt format in import folder. 
@@ -13,5 +16,7 @@ it works on :
 > VIDEOS (mp4, etc)
 
 > DOCUMENTS (pdf, etc)
+
 > and basically anything so long you put the right output name.
+
 > if it doesn't work, then you're out of luck.
