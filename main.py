@@ -1,4 +1,4 @@
-from lib.hex2bin import helenamain, helenamain2
+from lib.hex2bin import helenamain
 
 print('''
         *** HEX2BIN ***
