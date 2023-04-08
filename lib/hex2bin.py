@@ -38,7 +38,7 @@ def helenamain(im_file, ex_file):
 
     with open(f'{EXPORT_PATH}file-{date}{file_format}', 'wb') as outfile:
         outfile.write(byte_data)
-        if file_format == ".":
+        if file_format == "":
             print(f"Unknown file format, saving file with no extension")
         elif file_format.startswith('.'):
             print(f"Detected file format: {file_format[1:].upper()}")
