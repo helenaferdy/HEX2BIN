@@ -1,6 +1,5 @@
 import binascii
 import datetime
-import pickle
 
 IMPORT_PATH = "import/"
 EXPORT_PATH = "export/"
